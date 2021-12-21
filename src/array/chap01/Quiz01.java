@@ -1,7 +1,7 @@
 package array.chap01;
 import java.util.Scanner;
 
-// 배열 요소를 역순으로 정렬하는 과정을 하나하나 나타내는 프로그램
+/* 배열 요소를 역순으로 정렬하는 과정을 하나하나 나타내는 프로그램 */
 public class Quiz01 {
 
     static void swap(int[] a, int idx1, int idx2) {

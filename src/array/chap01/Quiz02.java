@@ -2,7 +2,7 @@ package array.chap01;
 
 import java.util.Scanner;
 
-// 배열 a의 모든 요소의 합계를 구하여 반환하는 메서드
+/* 배열 a의 모든 요소의 합계를 구하여 반환하는 메서드 */
 public class Quiz02 {
 
     static int sumOf(int[] arr) {

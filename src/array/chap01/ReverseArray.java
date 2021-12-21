@@ -2,7 +2,7 @@ package array.chap01;
 
 import java.util.Scanner;
 
-// 배열 요소의 값들을 읽고 역순으로 정렬
+/* 배열 요소의 값들을 읽고 역순으로 정렬 */
 public class ReverseArray {
     
     // 배열 요소의 값들을 바꾸는 메서드
