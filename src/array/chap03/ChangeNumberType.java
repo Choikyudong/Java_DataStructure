@@ -1,6 +1,5 @@
 package array.chap03;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 /*기수 : 수를 나타내는 데 기초가 되는 수*/
